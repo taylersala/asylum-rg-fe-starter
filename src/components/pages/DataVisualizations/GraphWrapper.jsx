@@ -50,6 +50,8 @@ if (!office) {
   }
 }
 
+
+
 function updateStateWithNewData(years, view, office, stateSettingCallback) {
   if (office === 'all' || !office) {
     if (view === 'citizenship') {
